@@ -1,0 +1,578 @@
+{
+    "@context": "https://rws.aliconnect.nl/api/$metadata#/System/$entity",
+    "@id": "https://rws.aliconnect.nl/api/System(3448914)",
+    "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MTQp",
+    "Children": [
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448920)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjAp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565673",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565674",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565675",
+                "Value": "Blusvoorziening"
+            },
+            "Master": {
+                "AttributeID": "2565676",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739084",
+                    "Value": "Blusvoorziening 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565677",
+                "@id": "https://rws.aliconnect.nl/api/System(3446716)"
+            },
+            "Rz": {
+                "AttributeID": "2565678",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448922)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjIp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565667",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565668",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565669",
+                "Value": "Intercom"
+            },
+            "Master": {
+                "AttributeID": "2565670",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739086",
+                    "Value": "Intercom 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565671",
+                "@id": "https://rws.aliconnect.nl/api/System(3447206)"
+            },
+            "Rz": {
+                "AttributeID": "2565672",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448923)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjMp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565661",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565662",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565663",
+                "Value": "C2000"
+            },
+            "Master": {
+                "AttributeID": "2565664",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739087",
+                    "Value": "C2000 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565665",
+                "@id": "https://rws.aliconnect.nl/api/System(3447284)"
+            },
+            "Rz": {
+                "AttributeID": "2565666",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448924)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjQp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565656",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565657",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565658",
+                "Value": "Telefoonvoorziening"
+            },
+            "Master": {
+                "AttributeID": "2739088",
+                "Value": "Telefoonvoorziening 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565659",
+                "@id": "https://rws.aliconnect.nl/api/System(3447323)"
+            },
+            "Rz": {
+                "AttributeID": "2565660",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448925)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjUp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565650",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565651",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565652",
+                "Value": "Vloeistofpompinstallatie"
+            },
+            "Master": {
+                "AttributeID": "2565653",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739089",
+                    "Value": "Vloeistofpompinstallatie 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565654",
+                "@id": "https://rws.aliconnect.nl/api/System(3447366)"
+            },
+            "Rz": {
+                "AttributeID": "2565655",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448926)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MjYp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565644",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565645",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565646",
+                "Value": "CADO"
+            },
+            "Master": {
+                "AttributeID": "2565647",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739090",
+                    "Value": "CADO 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565648",
+                "@id": "https://rws.aliconnect.nl/api/System(3447537)"
+            },
+            "Rz": {
+                "AttributeID": "2565649",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448927)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5Mjcp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565639",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565640",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565641",
+                "Value": "VEVA"
+            },
+            "Master": {
+                "AttributeID": "2739091",
+                "Value": "VEVA 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565642",
+                "@id": "https://rws.aliconnect.nl/api/System(3447543)"
+            },
+            "Rz": {
+                "AttributeID": "2565643",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448928)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5Mjgp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565633",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565634",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565635",
+                "Value": "BEBA"
+            },
+            "Master": {
+                "AttributeID": "2565636",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739092",
+                    "Value": "BEBA 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565637",
+                "@id": "https://rws.aliconnect.nl/api/System(3447546)"
+            },
+            "Rz": {
+                "AttributeID": "2565638",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448929)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5Mjkp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565627",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565628",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565629",
+                "Value": "Bediening"
+            },
+            "Master": {
+                "AttributeID": "2565630",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739093",
+                    "Value": "Bediening 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565631",
+                "@id": "https://rws.aliconnect.nl/api/System(3447648)"
+            },
+            "Rz": {
+                "AttributeID": "2565632",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448930)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzAp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565622",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565623",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565624",
+                "Value": "BeeldvoorzieningMeldkamer"
+            },
+            "Master": {
+                "AttributeID": "2739094",
+                "Value": "BeeldvoorzieningMeldkamer 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565625",
+                "@id": "https://rws.aliconnect.nl/api/System(3447688)"
+            },
+            "Rz": {
+                "AttributeID": "2565626",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448931)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzEp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565616",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565617",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565618",
+                "Value": "OverdrukvoorzieningGrensruimte"
+            },
+            "Master": {
+                "AttributeID": "2565619",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739095",
+                    "Value": "OverdrukvoorzieningGrensruimte 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565620",
+                "@id": "https://rws.aliconnect.nl/api/System(3447733)"
+            },
+            "Rz": {
+                "AttributeID": "2565621",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448932)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzIp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565611",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565612",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565613",
+                "Value": "KoppelingExterneSystemen"
+            },
+            "Master": {
+                "AttributeID": "2739096",
+                "Value": "KoppelingExterneSystemen 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565614",
+                "@id": "https://rws.aliconnect.nl/api/System(3447821)"
+            },
+            "Rz": {
+                "AttributeID": "2565615",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448933)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzMp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565605",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565606",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565607",
+                "Value": "Noodbediening"
+            },
+            "Master": {
+                "AttributeID": "2565608",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739097",
+                    "Value": "Noodbediening 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565609",
+                "@id": "https://rws.aliconnect.nl/api/System(3447859)"
+            },
+            "Rz": {
+                "AttributeID": "2565610",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448934)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzQp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565600",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565601",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565602",
+                "Value": "Terreinverlichting"
+            },
+            "Master": {
+                "AttributeID": "2739098",
+                "Value": "Terreinverlichting 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565603",
+                "@id": "https://rws.aliconnect.nl/api/System(3447904)"
+            },
+            "Rz": {
+                "AttributeID": "2565604",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448935)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzUp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565594",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565595",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565596",
+                "Value": "WaarschuwingsinstallatieDienstruimtes"
+            },
+            "Master": {
+                "AttributeID": "2565597",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739099",
+                    "Value": "WaarschuwingsinstallatieDienstruimtes 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565598",
+                "@id": "https://rws.aliconnect.nl/api/System(3447949)"
+            },
+            "Rz": {
+                "AttributeID": "2565599",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448936)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5MzYp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565589",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565590",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565591",
+                "Value": "BrandmeldinstallatieDienstruimtes"
+            },
+            "Master": {
+                "AttributeID": "2739100",
+                "Value": "BrandmeldinstallatieDienstruimtes 1",
+                "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+            },
+            "Source": {
+                "AttributeID": "2565592",
+                "@id": "https://rws.aliconnect.nl/api/System(3447996)"
+            },
+            "Rz": {
+                "AttributeID": "2565593",
+                "Value": "system"
+            }
+        },
+        {
+            "@id": "https://rws.aliconnect.nl/api/System(3448937)",
+            "Id": "aHR0cHM6Ly9yd3MuYWxpY29ubmVjdC5ubC9hcGkvU3lzdGVtKDM0NDg5Mzcp",
+            "Level": 1,
+            "ChildIndex": null,
+            "Name": {
+                "AttributeID": "2565583",
+                "Value": "Product"
+            },
+            "Title": {
+                "AttributeID": "2565584",
+                "Value": "Product"
+            },
+            "Product": {
+                "AttributeID": "2565585",
+                "Value": "Eventrecorder"
+            },
+            "Master": {
+                "AttributeID": "2565586",
+                "@id": "https://rws.aliconnect.nl/api/System(3443380)",
+                "0": {
+                    "AttributeID": "2739101",
+                    "Value": "Eventrecorder 1",
+                    "@id": "https://rws.aliconnect.nl/api/System(3448914)"
+                }
+            },
+            "Source": {
+                "AttributeID": "2565587",
+                "@id": "https://rws.aliconnect.nl/api/System(3448038)"
+            },
+            "Rz": {
+                "AttributeID": "2565588",
+                "Value": "system"
+            }
+        }
+    ]
+}
